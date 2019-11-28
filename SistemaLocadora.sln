@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{3A7AE087-C2EC-4F5C-B39D-79A461CEA22C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{C293CABC-D433-43D0-BA53-A862F2FA0840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B5EC9621-2469-4DD0-ADCD-219B8F8BB072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A7AE087-C2EC-4F5C-B39D-79A461CEA22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7AE087-C2EC-4F5C-B39D-79A461CEA22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7AE087-C2EC-4F5C-B39D-79A461CEA22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7AE087-C2EC-4F5C-B39D-79A461CEA22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C293CABC-D433-43D0-BA53-A862F2FA0840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C293CABC-D433-43D0-BA53-A862F2FA0840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C293CABC-D433-43D0-BA53-A862F2FA0840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C293CABC-D433-43D0-BA53-A862F2FA0840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5EC9621-2469-4DD0-ADCD-219B8F8BB072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EC9621-2469-4DD0-ADCD-219B8F8BB072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EC9621-2469-4DD0-ADCD-219B8F8BB072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EC9621-2469-4DD0-ADCD-219B8F8BB072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {532A5D6F-D5C5-4DFC-8F0A-BABCC8DF1446}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/jrsilvaxd
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Models\\Models.csproj
+		SccProjectName1 = Models
+		SccLocalPath1 = Models
+		SccProjectUniqueName2 = GUI\\GUI.csproj
+		SccProjectName2 = GUI
+		SccLocalPath2 = GUI
+		SccProjectUniqueName3 = DAL\\DAL.csproj
+		SccProjectName3 = DAL
+		SccLocalPath3 = DAL
+	EndGlobalSection
+EndGlobal
